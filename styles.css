@@ -1,2 +1,20 @@
-
-/* Your CSS Code here. */
+.holder{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#green{
+    background-color: green;
+    width: 70px;
+    height: 70px;
+}
+#red{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+#blue{
+    background-color: blue;
+    width: 70px;
+    height: 70px;
+}
